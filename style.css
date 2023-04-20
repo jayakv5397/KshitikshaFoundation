@@ -1,0 +1,69 @@
+html, body{
+   margin: 0;
+   padding: 0;
+}
+
+.w-70{
+    width: 70%;
+}
+
+
+h1, h2, h3, h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+
+
+/* Header styles  */
+
+.header{
+    padding: 1rem 5rem;
+}
+
+
+#navbar{
+    width: 5rem;
+}
+
+/* Descrption  section homepage */
+
+
+.description{
+    padding: 6rem 10rem;
+}
+
+
+.line{
+    height: 100%;
+    width: 0.7rem;
+}
+
+.gap{
+    margin-bottom: 3rem;
+}
+
+.joinus{
+    padding: 2rem 0 3rem;
+}
+
+
+.infogrpagh{
+    width: 100%;
+    text-align: center;
+}
+
+
+.footer{
+    padding-top: 2rem;
+    background-color: #ff615d;
+    margin-bottom: 0;
+    height: 250px;
+    color: white;
+}
+
+
+.newsletter{
+    margin-top: 10%;
+}
